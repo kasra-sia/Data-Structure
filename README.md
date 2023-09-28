@@ -40,12 +40,12 @@ MySuperSort is our proprietary sorting algorithm designed to outperform Java's b
 ## Performance
 The performance of different sorting algorithms has been evaluated on various datasets. We have included detailed performance metrics and comparisons in the performance_report.pdf file. You can find information about the sorting algorithms tested, their time complexity, and how they performed on different data types and sizes.
 
+## you can read more details in 
 
+   ```shell
+   ./finding the best sorting algoritm/doc.pdf
+   ```
 Thank you for visiting the MySuperSort repository! We hope you find the sorting algorithm selection tool and MySuperSort useful in your projects. If you have any questions or feedback, please don't hesitate to reach out.
-
-# you can read more details in 
-```shell
-/finding the best sorting algoritm/doc.pdf
 
 Happy sorting!
 
