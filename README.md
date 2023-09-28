@@ -42,7 +42,7 @@ The performance of different sorting algorithms has been evaluated on various da
 
 
 Thank you for visiting the MySuperSort repository! We hope you find the sorting algorithm selection tool and MySuperSort useful in your projects. If you have any questions or feedback, please don't hesitate to reach out.
-#you can read more details in  /MySuperSort/doc.pdf
+#you can read more details in  /finding the best sorting algoritm/doc.pdf
 
 Happy sorting!
 
