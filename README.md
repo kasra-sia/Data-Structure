@@ -19,7 +19,7 @@ Sorting is a fundamental operation in computer science and is required in a wide
 
 2. **Custom Sort Algorithm - MySuperSort**: In addition to benchmarking various sorting algorithms, we have created our custom sorting algorithm, MySuperSort, which has consistently outperformed Java's built-in sorting method across a range of datasets.
 
-3. **Performance**: The performance of different sorting algorithms has been evaluated on various datasets. We have included detailed performance metrics and comparisons in the `performance_report.pdf` file. You can find information about the sorting algorithms tested, their time complexity, and how they performed on different data types and sizes.
+3. **Performance**: The performance of different sorting algorithms has been evaluated on various datasets. You can find information about the sorting algorithms tested, their time complexity, and how they performed on different data types and sizes.
 
 ## Usage
 
