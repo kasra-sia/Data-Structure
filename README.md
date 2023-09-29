@@ -9,8 +9,7 @@ Welcome to the MySuperSort repository! This project focuses on finding the most 
 3. [Finding the Best Sorting Algorithm](#finding-the-best-sorting-algorithm)
 4. [Custom Sort Algorithm - MySuperSort](#custom-sort-algorithm-mysupersort)
 5. [Performance](#performance)
-6. [Contributing](#contributing)
-7. [License](#license)
+
 
 ## Introduction
 
